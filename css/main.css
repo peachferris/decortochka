@@ -490,7 +490,6 @@ footer {
     }
     .line span {
         margin-left: -50px;
-        margin-top: -5%;
       } 
       .list {
         padding: 0;
@@ -523,7 +522,7 @@ footer {
         font-size: 14px;
     }
     .information {
-        font-size: 25%;
+        font-size: 12px;
 }
 @media   ( max-width: 375px) {
     .offer {
