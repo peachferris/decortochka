@@ -464,6 +464,10 @@ footer {
     .logo {
         width: 200px;
     }
+    .information {
+        text-align: center;
+        font-size: 8px;
+    }
 }
 @media   ( max-width: 425px) {
     .logo {
